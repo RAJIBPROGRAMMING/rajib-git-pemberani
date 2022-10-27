@@ -10,5 +10,8 @@
     <h3>ini file php</h3>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci et placeat sunt. Nostrum laudantium ducimus quod esse officia deserunt voluptatem ipsum autem totam, ad fugiat a nam. Reiciendis, excepturi voluptatum.</p>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis iusto repudiandae consectetur voluptatem? Velit similique quos minima at quas eum neque perspiciatis, minus, dolor saepe quod, sapiente magnam voluptatibus accusamus!</p>
+
+
+
 </body>
 </html>
